@@ -1,0 +1,6 @@
+@MiddleWare_with_.NetCore_HostAddress = http://localhost:5012
+
+GET {{MiddleWare_with_.NetCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
